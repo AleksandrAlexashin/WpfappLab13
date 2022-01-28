@@ -1,0 +1,36 @@
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\bin\Debug\WpfApplab_7.exe.config
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\bin\Debug\WpfApplab_7.exe
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\bin\Debug\WpfApplab_7.pdb
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.AssemblyReference.cache
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\MainWindow.g.cs
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\App.g.cs
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7_MarkupCompile.cache
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7_MarkupCompile.lref
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\MainWindow.baml
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7.g.resources
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7.Properties.Resources.resources
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.GenerateResource.cache
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7.exe
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\WpfApplab_7.pdb
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\Dictionary1.baml
+C:\Users\Wolf\source\repos\lab2\WpfAppLab_8\obj\Debug\App.baml
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\bin\Debug\WpfApplab_7.exe.config
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\bin\Debug\WpfApplab_7.exe
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\bin\Debug\WpfApplab_7.pdb
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.AssemblyReference.cache
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\Dark.baml
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\Dictionary1.baml
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\MainWindow.g.cs
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\App.g.cs
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7_MarkupCompile.cache
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7_MarkupCompile.lref
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\App.baml
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\MainWindow.baml
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7.g.resources
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7.Properties.Resources.resources
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.GenerateResource.cache
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_8.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7.exe
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\WpfApplab_7.pdb
+C:\Users\Wolf\source\repos\lab2\Новая папка\WpfAppLab_8\obj\Debug\Light.baml
